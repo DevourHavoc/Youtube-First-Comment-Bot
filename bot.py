@@ -15,7 +15,7 @@ cid="q5WZtFp36adwqhKpZzxwQ"
 #last video id wMuYiLby3-s
 lastvid="lFwLzOoZITM"
 # waiting time intervel in seconds
-intervel=5
+intervel=15
 #comment you need to post
 comment="My parents said if i hit 10k they'd buy me a professional camera begging you guys please"
 
